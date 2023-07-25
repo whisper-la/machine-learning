@@ -1,4 +1,3 @@
-![image](https://github.com/whisper-la/machine-learning/assets/131673492/f098739c-cfa4-4933-85d9-ed6c99488eb9)
 # 机器学习
 >
 >本内容主要是由本人学习西瓜书的笔记和代码练习构成
