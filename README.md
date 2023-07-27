@@ -37,5 +37,10 @@
 #### 2.3.1 错误率和精度
 #### 2.3.2 查准率(precision)、查全率(recall)与 F1  
 
-![Alt text](image-1.png)
+最常用的性能度量是均方误差。  
+分类任务中常用的性能度量如下  
+#### 2.3.1 错误率和精度
+#### 2.3.2 查准率(precision)、查全率(recall)与 F1  
+![image](https://github.com/whisper-la/machine-learning/assets/131673492/df702610-75af-4016-b7e0-025bfa78a577)
 查准率和查全率是一对矛盾的度量工具。
+
