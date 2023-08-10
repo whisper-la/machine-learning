@@ -44,4 +44,15 @@
 ![image](https://github.com/whisper-la/machine-learning/assets/131673492/df702610-75af-4016-b7e0-025bfa78a577)
 查准率和查全率是一对矛盾的度量工具。
 ![image](https://github.com/whisper-la/machine-learning/assets/131673492/5a649f40-6f5c-43ca-9bb7-40d78616c48c)
-
+#### 2.3.3 ROC与AUC
+##### ROCvv
+ROC曲线的纵轴是"真正例率" (True Positive Rate，简称 TPR)，横轴是"假正例率" (False Positive Rate，简称 FPR)  
+$$
+TPR=\frac{TP}{TP+FN}  
+$$
+$$
+FPR=\frac{FP}{FP+TN}
+$$
+![image](https://github.com/whisper-la/machine-learning/assets/131673492/0625b48a-03a1-468e-9d68-a18e5697054b)
+AUC是曲线所围的阴影部分面积。
+#### 2.3.4 代价敏感错误率与代价曲线
